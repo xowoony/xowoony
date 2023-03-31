@@ -18,5 +18,5 @@
 <hr>
 <br>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=xowoony)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xowoony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![xowoony's GitHub stats](https://github-readme-stats.vercel.app/api?username=xowoony&theme=jolly&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xowoony&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
