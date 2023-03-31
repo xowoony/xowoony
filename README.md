@@ -10,7 +10,7 @@
     "Typescript",
     "React",
     "Java",
-    "Spring Boot",
+    "Spring Boot"
   ]
 }
 ```
